@@ -64,7 +64,12 @@ header{
     padding: 1rem;
     font-size: 1rem;
     font-weight: 600;
-}  
+}
+
+.header__navbar a:hover{
+    color: #ed5679;
+    text-shadow: 2px 2px 4px white;
+}
 
 /* ---------------CONTENT------------------- */
 
